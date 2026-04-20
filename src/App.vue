@@ -2,12 +2,20 @@
 
 <template>
   <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <el-button type="primary">按钮</el-button>
 </template>
 
-<style scoped></style>
+<style scoped>
 
-<!-- kokodwak -->
+header{
+  line-height: 1.5;
+  max-height: 100vh;
+}
+
+.log {
+  display: block;
+  margin: 0 auto 2rem;
+}
+
+</style>
+
