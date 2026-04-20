@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OutboundManage
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -36,3 +37,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# OutboundManagementSystem
+出库管理系统
+>>>>>>> 1b418787be261c3d6962b75da8c9abb5ce88eb8e
